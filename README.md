@@ -39,7 +39,6 @@
 
 ### 🎯 Current Goals (2026)
 * **LLaMA Model Deep Dive:** 대규모 언어 모델의 가중치 및 어텐션 매커니즘 정밀 분석.
-* **Global Communication:** 국제적인 퀀트 리서치 역량 확보를 위한 **TOEFL** 준비 (3월 말 응시 예정).
 * **Financial Certification:** 투자 전문가로 거듭나기 위한 금융 자격증 취득.
 
 ---
