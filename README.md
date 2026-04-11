@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </p>
 
+---
+
 > **"금융 시장 데이터에서 숨겨진 연결고리를 찾아내고, 주어진 환경에 최적화된 모델 제작을 위해 공부합니다."**
 
 저는 데이터 기반의 의사결정과 알고리즘을 통한 시장 분석에 매료된 퀀트 엔지니어 지망자입니다. 6년 차 개인 투자자로서의 시장 경험과 컴퓨터공학적 최적화 역량을 결합하여, 유의미한 알파를 창출하는 모델을 공부합니다.
@@ -46,7 +48,7 @@
 
 ### ☕ Fun Facts & Beyond Code
 * 🔥 **Consistency:** 듀오링고 일본어 학습 200일 연속 달성.
-* 📚 **Inspiration:** 『코스모스』, 『삼체』를 통해 거시적인 시스템과 우주적 관점의 사유를 즐깁니다.
+* 📚 **Inspiration:** 『코스모스』, 『삼체』를 감명깊게 읽었습니다.
 
 
 
