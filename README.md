@@ -32,6 +32,5 @@
 ---
 
 ### 📫 Contact & Hobby
-- 📧 Email: `user_email@example.com`
-- 🎮 Strategy Inspiration: *League of Legends* & *Cyberpunk 2077*
+- 📧 Email: `katdia93@hufs.ac.kr`
 - 🍳 Passionate about: Japanese Cuisine & Fitness
