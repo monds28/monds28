@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Gyeonghwan%20Song!&fontSize=50)
-# 📈 Hello, I'm Gyeonghwan Song | Aspiring Quant Developer
+# 📈 Aspiring Quant Developer
 
 ## Language and Frameworks
 <p align="left">
