@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Hello, I'm Gyeonghwan Song | Aspiring Quant Developer!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Gyeonghwan!&fontSize=70)
 # 📈 Hello, I'm Gyeonghwan Song | Aspiring Quant Developer
 
 ## Language and Frameworks
@@ -49,4 +49,4 @@
 * 📚 **Inspiration:** 『코스모스』, 『삼체』를 통해 거시적인 시스템과 우주적 관점의 사유를 즐깁니다.
 
 
-### 📊 GitHub Stats
+
