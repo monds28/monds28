@@ -20,13 +20,13 @@
 
 ### 🚀 Key Projects & Research
 
-* **💻머신러닝 기반 주가 예측 모델 (GVIF)**
+* **💻 머신러닝 기반 주가 예측 모델 (GVIF)**
     * `XGBoost` 이진 분류 모델과 TimeSeriesSplit 기법을 활용하여 KOSPI 및 개별 종목의 주가 방향성 예측 모델 설계.
     * 대안 데이터와 기술적 지표를 결합하여 상관관계 및 다중공선성 분석 수행.
-* **💻트렌드 키워드 분석 (Chelkathon)**
+* **💻 트렌드 키워드 분석 (Chelkathon)**
     * 뉴스 및 기사 웹 크롤링 파이프라인 구축.
-    * NLP를 활용한 키워드 감성 점수화 및 검색어 순위 분석 알고리즘 구현.
-* **💹기업 밸류에이션 리서치 (GVIF)**
+    * 통계에 기반한 키워드 점수화 및 대중의 관심도 분석 알고리즘 구현.
+* **💹 기업 밸류에이션 리서치 (GVIF)**
     * AI 데이터센터 수요 기반 HBM(TC 본더/하이브리드 본딩) 시장 분석 및 '한미반도체' 목표 주가 산출.
 
 ---
@@ -46,3 +46,7 @@
 ### ☕ Fun Facts & Beyond Code
 * 🔥 **Consistency:** 듀오링고 일본어 학습 200일 연속 달성.
 * 📚 **Inspiration:** 『코스모스』, 『삼체』를 통해 거시적인 시스템과 우주적 관점의 사유를 즐깁니다.
+
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=monds28&show_icons=true&theme=radical)
