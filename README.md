@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Hello, I'm Gyeonghwan Song | Aspiring Quant Developer!&fontSize=70)
 # 📈 Hello, I'm Gyeonghwan Song | Aspiring Quant Developer
 
 ## Language and Frameworks
@@ -49,4 +50,3 @@
 
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=monds28&show_icons=true&theme=radical)
