@@ -11,6 +11,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-222222?style=flat-square&logo=XGBoost&logoColor=white"/>
 </p>
 
 ---
