@@ -47,9 +47,3 @@
 
 ---
 
-### ☕ Fun Facts & Beyond Code
-* 🔥 **Consistency:** 듀오링고 일본어 학습 200일 연속 달성.
-* 📚 **Inspiration:** 『코스모스』, 『삼체』를 감명깊게 읽었습니다.
-
-
-
